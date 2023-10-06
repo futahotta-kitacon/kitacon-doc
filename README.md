@@ -1,1 +1,3 @@
-# kitacon-doc
+# kitacon-doc  
+
+- HPのドメインは「ほにゃらら」
